@@ -1,0 +1,1 @@
+All the code is in the Jupyter Notebook file, all the functions should be working and there's some good examples of each decomposition method under each method. Simply run the code if interested in checking the output. Do make sure that the random tensor generated is of order 3 (printed tensor should look like 3 matrices).
